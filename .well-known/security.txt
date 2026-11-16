@@ -1,0 +1,8 @@
+# Trustia AI Technologies — Coordinated Vulnerability Disclosure Policy (RFC 9116)
+Contact: mailto:iletisim@trustia.com.tr
+Contact: https://trustia.com.tr/iletisim/
+Expires: 2027-11-16T00:00:00Z
+Preferred-Languages: tr, en
+Canonical: https://trustia.com.tr/.well-known/security.txt
+Policy: https://trustia.com.tr/politika/siber/
+Hiring: https://trustia.com.tr/iletisim/
