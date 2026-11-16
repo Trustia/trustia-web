@@ -1,0 +1,74 @@
+# Trustia AI Technologies Robots & AI Indexing Policy (v4.5 Enterprise)
+# https://trustia.com.tr
+# Last Updated: 2026-11-16
+
+User-agent: *
+Allow: /
+
+# Major Search Engine Crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Video
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# Modern AI Agents & LLM Indexing (Generative Engine Optimization - GEO)
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: Cohere-ai
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Canonical Sitemaps & Machine-Readable LLM Knowledge Manifests
+Sitemap: https://trustia.com.tr/sitemap.xml
+# LLMs.txt Standard Endpoints:
+# https://trustia.com.tr/llms.txt
+# https://trustia.com.tr/llms-full.txt
+
+Disallow: /api/
+Disallow: /_next/

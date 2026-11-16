@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- 1. Home / Ana Sayfa -->
+  <url>
+    <loc>https://trustia.com.tr/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://trustia.com.tr/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://trustia.com.tr/" />
+  </url>
+
+  <!-- 2. Level 4 Robotaxi Showcase (SAIC Maxus MIFA 7 & Hyundai Ioniq 5) -->
+  <url>
+    <loc>https://trustia.com.tr/robotaxi/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://trustia.com.tr/robotaxi/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://trustia.com.tr/robotaxi/" />
+  </url>
+
+  <!-- 3. About Us / Hakkımızda -->
+  <url>
+    <loc>https://trustia.com.tr/hakkimizda/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://trustia.com.tr/hakkimizda/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://trustia.com.tr/hakkimizda/" />
+  </url>
+
+  <!-- 4. Contact & Headquarters / İletişim -->
+  <url>
+    <loc>https://trustia.com.tr/iletisim/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://trustia.com.tr/iletisim/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://trustia.com.tr/iletisim/" />
+  </url>
+
+  <!-- 5. OIN 2.0 Global Patent Agreement -->
+  <url>
+    <loc>https://trustia.com.tr/politika/oin-lisans/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://trustia.com.tr/politika/oin-lisans/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://trustia.com.tr/politika/oin-lisans/" />
+  </url>
+
+  <!-- 6. Autonomy Licensing & SLA Policy -->
+  <url>
+    <loc>https://trustia.com.tr/politika/lisans/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://trustia.com.tr/politika/lisans/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://trustia.com.tr/politika/lisans/" />
+  </url>
+
+  <!-- 7. Level 4 Safety & ISO 26262 ASIL-D Protocol -->
+  <url>
+    <loc>https://trustia.com.tr/politika/otonom-guvenlik/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://trustia.com.tr/politika/otonom-guvenlik/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://trustia.com.tr/politika/otonom-guvenlik/" />
+  </url>
+
+  <!-- 8. 100% Sovereign Defense IP & National Technology Commitment -->
+  <url>
+    <loc>https://trustia.com.tr/politika/yerlilik/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://trustia.com.tr/politika/yerlilik/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://trustia.com.tr/politika/yerlilik/" />
+  </url>
+
+  <!-- 9. Automotive Cyber Defense, UN R155 CSMS & Cryptography -->
+  <url>
+    <loc>https://trustia.com.tr/politika/siber/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://trustia.com.tr/politika/siber/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://trustia.com.tr/politika/siber/" />
+  </url>
+
+  <!-- 10. Autonomous Systems & AI Ethics Charter -->
+  <url>
+    <loc>https://trustia.com.tr/politika/etik/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://trustia.com.tr/politika/etik/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://trustia.com.tr/politika/etik/" />
+  </url>
+
+  <!-- 11. Intellectual Property & Rights -->
+  <url>
+    <loc>https://trustia.com.tr/politika/mulkiyet/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://trustia.com.tr/politika/mulkiyet/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://trustia.com.tr/politika/mulkiyet/" />
+  </url>
+
+  <!-- 12. Dual-Use & Export Compliance -->
+  <url>
+    <loc>https://trustia.com.tr/politika/ihracat/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://trustia.com.tr/politika/ihracat/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://trustia.com.tr/politika/ihracat/" />
+  </url>
+
+  <!-- 13. Data Privacy Policy (KVKK & GDPR) -->
+  <url>
+    <loc>https://trustia.com.tr/politika/kvkk/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://trustia.com.tr/politika/kvkk/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://trustia.com.tr/politika/kvkk/" />
+  </url>
+
+  <!-- 14. Data Privacy Policy Alias -->
+  <url>
+    <loc>https://trustia.com.tr/politika/gizlilik/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://trustia.com.tr/politika/gizlilik/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://trustia.com.tr/politika/gizlilik/" />
+  </url>
+
+  <!-- 15. Continuous Verification, 1,357 Automated Tests & QA Policy -->
+  <url>
+    <loc>https://trustia.com.tr/politika/dogrulama/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://trustia.com.tr/politika/dogrulama/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://trustia.com.tr/politika/dogrulama/" />
+  </url>
+
+  <!-- 16. Machine-Readable LLM Knowledge Base -->
+  <url>
+    <loc>https://trustia.com.tr/llms.txt</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://trustia.com.tr/llms-full.txt</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+</urlset>
